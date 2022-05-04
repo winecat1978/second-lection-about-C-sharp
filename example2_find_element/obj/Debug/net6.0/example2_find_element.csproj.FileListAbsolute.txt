@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\bin\Debug\net6.0\example2_find_element.exe
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\bin\Debug\net6.0\example2_find_element.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\bin\Debug\net6.0\example2_find_element.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\bin\Debug\net6.0\example2_find_element.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\bin\Debug\net6.0\example2_find_element.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\example2_find_element.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\example2_find_element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\example2_find_element.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\example2_find_element.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\example2_find_element.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\example2_find_element.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\refint\example2_find_element.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\example2_find_element.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\example2_find_element.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example2_find_element\obj\Debug\net6.0\ref\example2_find_element.dll

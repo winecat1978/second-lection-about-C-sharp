@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\bin\Debug\net6.0\example1_max9.exe
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\bin\Debug\net6.0\example1_max9.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\bin\Debug\net6.0\example1_max9.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\bin\Debug\net6.0\example1_max9.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\bin\Debug\net6.0\example1_max9.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\example1_max9.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\example1_max9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\example1_max9.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\example1_max9.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\example1_max9.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\example1_max9.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\refint\example1_max9.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\example1_max9.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\example1_max9.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\example1_max9\obj\Debug\net6.0\ref\example1_max9.dll

@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\bin\Debug\net6.0\intro_array.exe
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\bin\Debug\net6.0\intro_array.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\bin\Debug\net6.0\intro_array.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\bin\Debug\net6.0\intro_array.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\bin\Debug\net6.0\intro_array.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\intro_array.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\intro_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\intro_array.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\intro_array.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\intro_array.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\intro_array.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\refint\intro_array.dll
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\intro_array.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\intro_array.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\C# lection2\intro_array\obj\Debug\net6.0\ref\intro_array.dll
